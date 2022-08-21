@@ -2206,12 +2206,12 @@ button,
   user-select: none;
   color: #3d4449;
   font-family: "Roboto Slab", serif;
-  font-weight: 400;
-  letter-spacing: 0.075em;
+  font-weight: 500;
+  letter-spacing: 0.05em;
   list-style: none;
   margin-bottom: 0;
   padding: 0;
-  text-transform: uppercase; }
+  text-transform: none; }
   #menu ul a, #menu ul span {
     border-bottom: 0;
     color: inherit;
@@ -2279,7 +2279,7 @@ button,
     padding-top: 0; }
 
 
-/* menu_hardware */
+/* menu_hardware by Liu Wei*/
 #menu_hardware ul {
   -moz-user-select: none;
   -webkit-user-select: none;
@@ -2288,9 +2288,11 @@ button,
   color: #3d4449;
   font-family: "Roboto Slab", serif;
   font-weight: 400;
+  letter-spacing: 0.0em;
   list-style: none;
   margin-bottom: 0;
-  padding: 0; }
+  padding: 0; 
+  text-transform: none;}
   #menu_hardware ul a, #menu_hardware ul span {
     border-bottom: 0;
     color: inherit;
