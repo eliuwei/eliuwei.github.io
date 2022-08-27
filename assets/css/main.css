@@ -132,7 +132,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #3d4449;
-  font-family: "Roboto Slab", serif;
+  font-family: "Microsoft YaHei", serif;
   font-weight: 700;
   line-height: 1.5;
   margin: 0.5em 0 1em 0; }
@@ -996,7 +996,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  font-family: "Roboto Slab", serif;
+  font-family: "Microsoft YaHei", serif;
   font-size: 1em;
   font-weight: 400;
   letter-spacing: 0.075em;
@@ -1505,7 +1505,7 @@ button,
   color: #f56a6a !important;
   cursor: pointer;
   display: inline-block;
-  font-family: "Roboto Slab", serif;
+  font-family: "Microsoft YaHei", serif;
   font-size: 0.8em;
   font-weight: 700;
   height: 3.5em;
@@ -2093,7 +2093,7 @@ button,
   #header .logo {
     border-bottom: 0;
     color: inherit;
-    font-family: "Roboto Slab", serif;
+    font-family: "Microsoft YaHei", serif;
     font-size: 1.125em; }
   #header .icons {
     text-align: right; }
@@ -2205,7 +2205,7 @@ button,
   -ms-user-select: none;
   user-select: none;
   color: #3d4449;
-  font-family: "Roboto Slab", serif;
+  font-family: "Microsoft YaHei", serif;
   font-weight: 500;
   letter-spacing: 0.05em;
   list-style: none;
@@ -2286,7 +2286,7 @@ button,
   -ms-user-select: none;
   user-select: none;
   color: #3d4449;
-  font-family: "Roboto Slab", serif;
+  font-family: "Microsoft YaHei", serif;
   font-weight: 400;
   letter-spacing: 0.0em;
   list-style: none;
@@ -2319,7 +2319,7 @@ button,
         text-rendering: auto;
         line-height: 1;
         text-transform: none !important;
-        font-family: 'Font Awesome 5 Free';
+        font-family: 'Microsoft YaHei';
         font-weight: 900; }
       #menu_hardware ul a.opener:before, #menu_hardware ul span.opener:before {
         -moz-transition: color 0.2s ease-in-out, -moz-transform 0.2s ease-in-out;
