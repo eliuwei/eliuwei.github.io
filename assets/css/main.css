@@ -1623,9 +1623,9 @@ button,
     display: -webkit-flex;
     display: -ms-flex;
     display: flex;
-    margin: 0 0 3em 3em;
+    /*margin: 0 0 3em 3em;*/
     position: relative;
-    /*width: calc(100% + 3em);*/
+    width: calc(100% - 3em);
     margin-left: 1.5em; 
     margin-right: 1.5em;
     margin-top: 0em;
