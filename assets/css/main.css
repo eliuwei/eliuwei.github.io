@@ -1625,7 +1625,7 @@ button,
     display: flex;
     margin: 0 0 3em 3em;
     position: relative;
-    width: calc(100% - 0em); }
+    width: calc(100% - 3em); }
     .features article:nth-child(2n - 1) {
       margin-left: 1.5em; }
     .features article:nth-child(2n) {
