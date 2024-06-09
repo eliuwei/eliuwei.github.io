@@ -1623,15 +1623,21 @@ button,
     display: -webkit-flex;
     display: -ms-flex;
     display: flex;
-    margin: 0 0 3em 3em;
+    /*margin: 0 0 3em 3em;*/
     position: relative;
-    width: calc(50% - 3em); }
-    .features article:nth-child(2n - 1) {
+    width: calc(100% - 3em);
+    margin-left: 1.5em; 
+    margin-right: 1.5em;
+    margin-top: 0em;
+    margin-bottom: 0em;}
+    /*.features article:nth-child(2n - 1) {
+      margin-left: 1.5em; 
       margin-right: 1.5em; }
     .features article:nth-child(2n) {
-      margin-left: 1.5em; }
+      margin-left: 1.5em; 
+      margin-right: 1.5em;}
     .features article:nth-last-child(1), .features article:nth-last-child(2) {
-      margin-bottom: 0; }
+      margin-bottom: 0; }*/
     .features article .icon {
       -moz-flex-grow: 0;
       -webkit-flex-grow: 0;
